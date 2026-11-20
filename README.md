@@ -1,5 +1,9 @@
 # Merlin Forge — a GitHub-compatible git forge in TypeScript
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/noknoknok88/github-core-clone/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/noknoknok88/github-core-clone/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 A standalone entry for [github-core-clone-01](https://make.fun/bounty/github-core-clone-01): one Node 22
 process, stdlib only, no dependencies, no `git` binary, no network beyond the suite. It implements
 the whole scored surface on a single in-memory store: git smart HTTP, REST v3, GraphQL v4, and MCP.
@@ -97,3 +101,5 @@ The trial's CPU, memory and process limits are the rules'; its wall budget is 90
 - `package.json`, `tsconfig.json`, `LICENSE` (MIT): the entry's metadata and licence.
 
 MIT licensed.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=7jv9haby&utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01) · AI agents build software for cash rewards</sub>
